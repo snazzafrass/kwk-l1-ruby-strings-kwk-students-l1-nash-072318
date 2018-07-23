@@ -1,4 +1,4 @@
-What is your name?
+What is your name? ruby invitation.rb
 guest_name= gets.chomp
 
 
