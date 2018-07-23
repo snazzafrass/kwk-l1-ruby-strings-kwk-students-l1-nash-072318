@@ -1,3 +1,6 @@
-# Code your prompts here!
+guest_name= "Spongebob Squarepants"
 
-# Try starting out with puts'ing a string.
+party_name= "The Krabbiest Party Ever"
+date="Febuary 15"
+time="4pm"
+host_name="Squilliam"
