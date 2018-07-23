@@ -1,3 +1,4 @@
+
 puts "What is your name?"
 guest_name= gets.chomp
 
@@ -12,3 +13,5 @@ puts "Who's hosting the party?"
 host_name = gets.chomp
 
 puts "Hi, you've been invited to a party! What is your name?"
+
+puts "Dear #{guest_name}, "
