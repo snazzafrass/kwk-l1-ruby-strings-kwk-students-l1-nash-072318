@@ -5,7 +5,7 @@ puts "What is the party's name?"
 party_name= gets.chomp
 
 puts "When is the party?"
-#{date}= gets.chomp
+date = gets.chomp
 puts "What time is the party?"
 #{time}= gets.chomp
 puts "Who's hosting the party?"
