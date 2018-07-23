@@ -7,7 +7,7 @@ party_name= gets.chomp
 puts "When is the party?"
 date = gets.chomp
 puts "What time is the party?"
-#{time}= gets.chomp
+time= gets.chomp
 puts "Who's hosting the party?"
 puts #{host_name}= gets.chomp
 
