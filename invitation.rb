@@ -1,4 +1,6 @@
+What is your name?
 guest_name= gets.chomp
+
 
 party_name= "The Krabbiest Party Ever"
 date="Febuary 15"
